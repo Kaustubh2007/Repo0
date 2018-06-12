@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 0006-DB25
-
- Directory of C:\Users\Kaustubh\Desktop\MyProject
-
-13-06-2018  00:00    <DIR>          .
-13-06-2018  00:00    <DIR>          ..
-13-06-2018  00:00                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  39,822,622,720 bytes free
+change 1
